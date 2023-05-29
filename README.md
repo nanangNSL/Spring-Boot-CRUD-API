@@ -14,7 +14,7 @@ Sebelum memulai, pastikan sistem Anda memenuhi persyaratan berikut:
 
 Anda dapat mengunduh proyek ini dengan menjalankan perintah berikut di terminal atau menggunakan Git:
 
-<pre><code>git clone https://github.com/nanangNSL/quotes-api.git</code></pre>
+<pre><code>git clone https://github.com/nanangNSL/Spring-Boot-CRUD-API.git</code></pre>
 
 ## Langkah 2: Mengkompilasi dan Mengeksekusi Proyek
 
