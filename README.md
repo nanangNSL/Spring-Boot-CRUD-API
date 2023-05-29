@@ -1,6 +1,6 @@
-# Panduan Instalasi - Quotes API (Java Spring Boot)
+# Panduan Instalasi - Spring-Boot-CRUD-API (Java Spring Boot)
 
-Ini adalah panduan instalasi untuk proyek \"Quotes API\" yang menggunakan Java Spring Boot. Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan Quotes API di lingkungan pengembangan Anda.
+Ini adalah panduan instalasi untuk proyek \"Spring-Boot-CRUD-API\" yang menggunakan Java Spring Boot. Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan Quotes API di lingkungan pengembangan Anda.
 
 ## Persyaratan Sistem
 
@@ -23,7 +23,7 @@ Setelah Anda berhasil mengunduh proyek, masuk ke direktori proyek dan jalankan p
 <pre><code>cd quotes-api
 mvn spring-boot:run</code></pre>
 
-Proyek Quotes API akan dikompilasi dan dijalankan pada localhost dan port 8080.
+Proyek Spring-Boot-CRUD-API akan dikompilasi dan dijalankan pada localhost dan port 8080.
 
 ## Catatan Tambahan
 
@@ -32,4 +32,4 @@ Proyek Quotes API akan dikompilasi dan dijalankan pada localhost dan port 8080.
 - Jika ingin menjalankan tes unit, Anda dapat menggunakan perintah `mvn test`.
 - Pastikan Postgres berjalan jika menggunakan penyimpanan database postgres
 
-Selamat menggunakan Quotes API dengan Java Spring Boot! Jika Anda memiliki pertanyaan atau masalah, jangan ragu untuk menghubungi pengembang."
+Selamat menggunakan Spring-Boot-CRUD-API dengan Java Spring Boot! Jika Anda memiliki pertanyaan atau masalah, jangan ragu untuk menghubungi pengembang."
